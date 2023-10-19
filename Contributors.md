@@ -17,6 +17,7 @@
 - [Job Keter](https://github.com/CAPTAIN-JOB)
 - [Kaleb Mikiyas](https://github.com/coder-kaleb)
 - [Abhishek Jat](https://github.com/88Abhi)
+- [Sahil Patil](https://github.com/Sahil873)
 - [Vanessa Kasei](https://github.com/VanessaKasei)
 - [Ram Tyagi](https://github.com/Ram-tyagi)
 -[Su](https://github.com/sureshp820)
@@ -1556,6 +1557,7 @@ Sino Felicity Zwane
 - [Alessio] (https://github.com/Idk121-blip)
 - [JaxylViernes]
 - [LordProper]
+- [Martjellino] (https://github.com/martjellino)
 - [Joost-2](https://github.com/jvdputten)
 - [Madhan](https://github.com/codemadhan)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
